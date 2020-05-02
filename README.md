@@ -7,7 +7,7 @@ Inspired by [Awesome Reading Group](https://github.com/hadyelsahar/awesome-readi
 
 ## How it could work?
 
-1. ADD and VOTE on topics as comments in the voting issue. Please stick to a heading, and why you think it's important to discuss
+1. ADD and VOTE on topics as comments in the [voting issue](https://github.com/masakhane-io/agile-meeting-agenda/issues/1). Please stick to a heading, and why you think it's important to discuss
 
 2. The top N comments from "voting issue" gets selected for the next meeting agenda. The corresponding comment gets deleted from the voting issue and a new issue is created with the date of the meeting discussion, featuring the top comments. 
 
