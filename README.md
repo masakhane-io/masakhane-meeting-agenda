@@ -7,9 +7,8 @@ Inspired by [Awesome Reading Group](https://github.com/hadyelsahar/awesome-readi
 
 ## How it could work?
 
-### 1 - ADD and VOTE on topics as comments in the voting issue. Please stick to a heading, and why you think it's important to discuss
+1. ADD and VOTE on topics as comments in the voting issue. Please stick to a heading, and why you think it's important to discuss
 
-### 2 - The top voted comments from "voting issue" gets selected for the next meetin agenda. The corresponding comment gets deleted from the voting issue and a new issue is created with the date of the meeting discussion, featuring the top comments. 
+2. The top voted comments from "voting issue" gets selected for the next meetin agenda. The corresponding comment gets deleted from the voting issue and a new issue is created with the date of the meeting discussion, featuring the top comments. 
 
-
-### 3 - The meeting happens, and meeting summaries are posted on the issue for that meeting
+3. The meeting happens, and meeting summaries are posted on the issue for that meeting
