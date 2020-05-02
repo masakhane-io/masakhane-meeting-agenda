@@ -7,9 +7,9 @@ Inspired by [Awesome Reading Group](https://github.com/hadyelsahar/awesome-readi
 
 ## How it could work?
 
-An issue is created each week for the topics to be discussed in the weekly meeting
-Each week, members are asked to:
-1. Add meeting items to the issue that they think are relevant
-2. Vote and label each item in the comments as follows: 
-  - :thumbsup: - to be discussed this week
-  - :soon: - not this week, but let's discuss soon
+### 1 - ADD and VOTE on topics as comments in the voting issue. Please stick to a heading, and why you think it's important to discuss
+
+### 2 - The top voted comments from "voting issue" gets selected for the next meetin agenda. The corresponding comment gets deleted from the voting issue and a new issue is created with the date of the meeting discussion, featuring the top comments. 
+
+
+### 3 - The meeting happens, and meeting summaries are posted on the issue for that meeting
