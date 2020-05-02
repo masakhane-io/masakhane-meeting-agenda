@@ -8,7 +8,7 @@ Inspired by [Awesome Reading Group](https://github.com/hadyelsahar/awesome-readi
 Our Masakhane meetings take the following format (this has emerged over time)
 1. An overall "state-of-play" update of the whole initiative (this is aimed at newcomers or people who have missed sessions)
 2. Initiative updates from our on-going or upcoming initiatives. Here they can request help on specific tasks
-3. Any big questions that need discussion
+3. **Any big questions that need discussion**
 4. Open Floor. This includes requests for help for newcomers, and pairing up to mentors, follow ups on small todos.
 
 The **BIG QUESTIONS** at point #3 are currently decided at random and it's hard to focus what big questions we should be handling. That's where we'd like this weekly meeting agenda to assist 
